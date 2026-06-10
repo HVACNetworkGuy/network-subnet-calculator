@@ -1,0 +1,9 @@
+# Network Subnet Calculator Requirements
+# No external dependencies - uses Python standard library only
+# Requires Python 3.7+
+
+# Development dependencies (optional)
+pytest==7.4.0  # For running tests
+black==23.7.0  # Code formatting
+flake8==6.0.0  # Linting
+mypy==1.4.1    # Type checking
